@@ -1,5 +1,9 @@
 -=-=-=- DARK SKIN AUTOTASK -=-=-=- 
 
+Author : schwarzerBengel
+Creation date : 12/01/2017
+Current version: 10.2
+
 -=-=-=- AUTOTASK PRESENTATION -=-=-=- 
 
 Autotask Corporation created worlds leading hosted IT Business Management software built especially for VARs, MSPs and other technology solution providers to help them run their businesses better and more profitably. The company´s product line includes Autotask Professional Services Automation (PSA) software, and the VARStreet family of advanced quoting and e-commerce tools.  It goes without saying that these products work together without any problem, and are available on-demand to help IT solution providers sell, implement, deliver and bill their technology products & services.
