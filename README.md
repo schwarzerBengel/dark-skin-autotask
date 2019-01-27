@@ -21,6 +21,7 @@ My project more and more pleasant to the greatest number and on the advice of a 
 It can be shared more easily and also improve over time.
 
 Original REDDIT Post: https://www.reddit.com/r/Autotask/comments/a3bxgs/dark_skin_autotask/
+Feel free to leave your opinion on Reddit or here.
 
 -=-=-=- AUTHOR'S PRESENTATION -=-=-=-
 
