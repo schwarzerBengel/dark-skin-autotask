@@ -1,8 +1,12 @@
 -=-=-=-=-=- PATCH NOTES -=-=-=-=-=-
 
-Current version: 10.2 | Update date: 01/04/2019
+Current version: 10.3 | Update date: 03/05/2019
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+# 2019.01.04 #
+
+- Changed the appearance of alerts in accounts and tickets.
 
 # 2019.01.04 #
 
